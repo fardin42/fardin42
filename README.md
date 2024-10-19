@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fardin Sayyad</h1>
 <h3 align="center">I’m a passionate web developer and animation enthusiast, renowned for creating stunning websites. Specializing in GSAP and React, I bring animations to life, ensuring every project captivates and engages</h3>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" width="400px" alt="codeing">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardin42&label=Profile%20views&color=0e75b6&style=flat" alt="fardin42" /> </p>
 
 - 🔭 I’m currently working on animating the ArtistStroke website.” [Artiststroke](https://www.artiststrokes.in/)
