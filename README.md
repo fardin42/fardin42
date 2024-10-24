@@ -3,15 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardin42&label=Profile%20views&color=0e75b6&style=flat" alt="fardin42" /> </p>
 
-- 🔭 I’m currently working on animating the ArtistStroke website.” [Artiststroke](https://www.artiststrokes.in/)
+
 
 - 🌱 I’m currently learning **React,Gsap,Three.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fardin42](https://github.com/fardin42)
-
-- 💬 Ask me about **javascript,css,sass**
-
 - 📫 How to reach me **fardin.s.sayyad@gmail.com**
+- - 📫 How to call me **+919579965104**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +23,7 @@
 | Client Project    | Practice Project |
 | -------------     |    ------------- |
 | <a href="https://www.artiststrokes.in/" target="_blank" rel="noopener noreferrer">Artist Strokes</a><br><b> Interactive Animations</b>      | <a href="https://fardin42.github.io/AI-website/" target="_blank" rel="noopener noreferrer">AI Website</a><br><b> bootstrap,sass,javascript</b> |
-| <a href="https://nileshbharti.com/test/" target="_blank" rel="noopener noreferrer">Nilesh bharti</a><br><b>html,css,javascript <br> and animations</b>   |    <a href="https://fardin42.github.io/Alarm/" target="_blank" rel="noopener noreferrer">Alarm</a><br><b> html,css,javascript</b>  |
+| <a href="https://nileshbharti.com/test" target="_blank" rel="noopener noreferrer">Nilesh bharti</a><br><b>html,css,javascript <br> and animations</b>   |    <a href="https://fardin42.github.io/Alarm/" target="_blank" rel="noopener noreferrer">Alarm</a><br><b> html,css,javascript</b>  |
 | -     |     <a href="https://fardin42.github.io/chat-box/" target="_blank" rel="noopener noreferrer">Chat Box</a><br><b> html,css,javascript</b>  |
 |-      |     <a href="https://fardin42.github.io/3D-project-showcase/" target="_blank" rel="noopener noreferrer">Project Showcase</a><br><b> React, three.js </b>  |
 
