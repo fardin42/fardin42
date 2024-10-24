@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,Gsap,Three.js**
 
-- 📫 How to reach me **fardin.s.sayyad@gmail.com** **+919579965104**
+- 📫 How to reach me **fardin.s.sayyad@gmail.com** ||  <a href="tel:+919579965104"> **+919579965104** </a> 
  
 
 <h3 align="left">Connect with me:</h3>
