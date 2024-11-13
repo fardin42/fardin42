@@ -39,7 +39,7 @@
 | -------------     |    ------------- |
 | <a href="https://www.artiststrokes.in/" target="_blank" rel="noopener noreferrer">Artist Strokes</a><br><b> Interactive Animations</b>      | <a href="https://fardin42.github.io/AI-website/" target="_blank" rel="noopener noreferrer">AI Website</a><br><b> bootstrap,sass,javascript</b> |
 | <a href="https://nileshbharti.com/test" target="_blank" rel="noopener noreferrer">Nilesh bharti</a><br><b>html,css,javascript <br> and animations</b>   |    <a href="https://fardin42.github.io/Alarm/" target="_blank" rel="noopener noreferrer">Alarm</a><br><b> html,css,javascript</b>  |
-| -     |     <a href="https://fardin42.github.io/chat-box/" target="_blank" rel="noopener noreferrer">Chat Box</a><br><b> html,css,javascript</b>  |
+|<a href="https://quaintprint.com/"  target="_blank" rel="noopener noreferrer" > Quaintprint </a><br><b> responsive and designing </b>      |     <a href="https://fardin42.github.io/chat-box/" target="_blank" rel="noopener noreferrer">Chat Box</a><br><b> html,css,javascript</b>  |
 |-      |     <a href="https://fardin42.github.io/3D-project-showcase/" target="_blank" rel="noopener noreferrer">Project Showcase</a><br><b> React, three.js </b>  |
 
 
